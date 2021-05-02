@@ -1,6 +1,5 @@
 ## React-complete-guide
-<img style="float: right;" src="https://user-images.githubusercontent.com/17517057/116821002-49ddbf00-ab4e-11eb-964d-78cb10dbb171.png">
-![image](https://user-images.githubusercontent.com/17517057/116821002-49ddbf00-ab4e-11eb-964d-78cb10dbb171.png)
+<img style="height: 200px;" src="https://user-images.githubusercontent.com/17517057/116821002-49ddbf00-ab4e-11eb-964d-78cb10dbb171.png">
 
 React expenses project to exemplify all core react features such as component communication, react hooks, context API, two-way binding and lot's more
 
